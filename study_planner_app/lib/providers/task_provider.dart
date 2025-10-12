@@ -61,6 +61,15 @@ class TaskProvider extends ChangeNotifier {
     }
   }
 
+  Future<void> dismissReminder(String taskId) async {
+  final i = _tasks.indexWhere((t) => t.id == taskId);
+  if (i >= 0) {
+    _tasks[i].reminderTime = null; 
+    await _save(); 
+    notifyListeners(); 
+  }
+}
+
   List<Task> tasksForDate(DateTime date) {
     final d = DateTime(date.year, date.month, date.day);
     return _tasks.where((t) =>
