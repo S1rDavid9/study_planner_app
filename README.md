@@ -2,7 +2,8 @@
 
 A modern, feature-rich Flutter application designed to help students manage their study schedules efficiently with an elegant dark UI, smooth animations, and intelligent reminders.
 
-![App Banner](screenshots/banner.png)
+![App Banner] <img width="1355" height="761" alt="Screenshot 2025-10-12 181649" src="https://github.com/user-attachments/assets/f99aa1f6-5853-4b65-a541-b14a539cdc26" />
+
 
 ## 📱 Features
 
@@ -21,7 +22,8 @@ A modern, feature-rich Flutter application designed to help students manage thei
 - Real-time progress calculation based on completed tasks
 - Clean, focused interface for daily productivity
 
-![Today Screen](screenshots/today_screen.png)
+![Today Screen] <img width="296" height="614" alt="Screenshot 2025-10-12 191028" src="https://github.com/user-attachments/assets/c3808639-b339-4de4-a6f1-5b23e9f45003" />
+
 
 ### 📆 Calendar Screen
 - Interactive calendar view for long-term planning
@@ -29,7 +31,8 @@ A modern, feature-rich Flutter application designed to help students manage thei
 - Visual indicators for dates with scheduled tasks
 - Seamless navigation between days
 
-![Calendar Screen](screenshots/calendar_screen.png)
+![Calendar Screen] <img width="286" height="607" alt="Screenshot 2025-10-12 191046" src="https://github.com/user-attachments/assets/0eb97427-45da-4e53-94cf-04b47304448f" />
+
 
 ### ⏰ Smart Reminders
 - Time-based popup alerts when tasks are due
@@ -39,7 +42,7 @@ A modern, feature-rich Flutter application designed to help students manage thei
 - **Dismiss button** prevents duplicate notifications
 - Background reminder checking
 
-![Reminder Dialog](screenshots/reminder_dialog.png)
+![Reminder Dialog] 
 
 ### 💾 Persistent Storage
 - Local data storage using JSON
@@ -53,9 +56,11 @@ A modern, feature-rich Flutter application designed to help students manage thei
 - **Bottom Navigation**: Quick access to Today, Calendar, and Settings
 - **Responsive Design**: Optimized for various screen sizes
 
-![Add/Edit Task Screen](screenshots/add_edit_screen.png)
+![Add/Edit Task Screen] <img width="297" height="611" alt="Screenshot 2025-10-12 191114" src="https://github.com/user-attachments/assets/0803ad7d-96da-40fd-872e-3e819f7b3d51" />
 
-![Settings Screen](screenshots/settings_screen.png)
+
+![Settings Screen] <img width="301" height="602" alt="Screenshot 2025-10-12 191059" src="https://github.com/user-attachments/assets/c143735f-fd92-4b6c-bd8f-91ca9082dae0" />
+
 
 ## 🏗️ Architecture
 
